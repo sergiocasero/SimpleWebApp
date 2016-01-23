@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions">
+        <!-- MULTIMEDIA PERMISSIONS -->
+        <item>android.permission.CAMERA</item>
+
+        <!-- LOCATION PERMISSIONS -->
+        <item>android.permission.ACCESS_COARSE_LOCATION</item>
+        <item>android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

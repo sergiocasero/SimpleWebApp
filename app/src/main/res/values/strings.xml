@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleWebApp</string>
+    <string name="base_url">http://chefly.co</string>
+    <string name="no_permissions_url">http://google.com</string>
+    <string name="action_settings">SETTINGS</string>
+    <string name="go_settings">Go settings to grant permissions!</string>
+    <string name="permission">Permissions</string>
+    <string name="permission_description">We need to use this permissions in this app! :(</string>
+    <string name="first_run">first_run</string>
+</resources>
