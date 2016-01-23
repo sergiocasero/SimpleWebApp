@@ -10,7 +10,7 @@ You can:
   - Setup custom Android M permissions error page
 
 # How to
-It's to easy.
+It's too easy.
 ### 1. Clone this repo and import to Android Studio
 ### 2. Go to app/res/values/strings.xml
 
