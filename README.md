@@ -11,7 +11,7 @@ You can:
 
 # How to
 It's to easy.
-### 1. Clone this repo and import project to Android Studio
+### 1. Clone this repo and import to Android Studio
 ### 2. Go to app/res/values/strings.xml
 
 ```xml
